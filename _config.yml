@@ -7,7 +7,7 @@ domain: "https://cj90go.github.io/" # the domain URL for your site
 base: "/blog"  # the relative path that different with domain so you can test locally
 
 # Source URL NOTE: end with / cause it's [URL + FILE]
-w3c_url: "/w3c/"  # the base url of css js and images
+w3c_url: "/blog/w3c/"  # the base url of css js and images
 images_url: "/blog/w3c/images/" # the base url of post images
 postfile: "/blog/db/Postfile" # the Database
 sitefile: "/blog/db/Sitefile" # the Database
