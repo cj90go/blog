@@ -8,9 +8,9 @@ base: "/blog"  # the relative path that different with domain so you can test lo
 
 # Source URL NOTE: end with / cause it's [URL + FILE]
 w3c_url: "/w3c/"  # the base url of css js and images
-images_url: "/w3c/images/" # the base url of post images
-postfile: "/db/Postfile" # the Database
-sitefile: "/db/Sitefile" # the Database
+images_url: "/blog/w3c/images/" # the base url of post images
+postfile: "/blog/db/Postfile" # the Database
+sitefile: "/blog/db/Sitefile" # the Database
 
 # pagination
 page_size: 3
