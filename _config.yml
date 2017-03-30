@@ -1,8 +1,7 @@
-title: "AndyC's Blog"
-author: "jiajieCai"
+title:"AndyC's Blog"
+author:"jiajieCai"
 email:"caijiajie2008@163.com"
-description: "this istest"
-
+description: >"this istest"
 # Site URL NOTE: if your site is base on subdir /blog you should change base to "/blog"
 domain: "https://cj90go.github.io/" # the domain URL for your site
 base: "/blog"  # the relative path that different with domain so you can test locally
